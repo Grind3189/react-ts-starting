@@ -2,9 +2,9 @@
 function App() {
 
   return (
-    <>
-      Hello World
-    </>
+    <main>
+      Hello Mom and Dad!
+    </main>
   )
 }
 
